@@ -54,7 +54,7 @@
                                 </value>
                                 <value name="STARTY">
                                   <block type="math_number" id="56">
-                                    <field name="NUM">46</field>
+                                    <field name="NUM">36</field>
                                   </block>
                                 </value>
                                 <next>
