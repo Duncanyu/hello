@@ -57,6 +57,11 @@
                                     <field name="NUM">46</field>
                                   </block>
                                 </value>
+                                <next>
+                                  <block type="oled_drawtext" id="65">
+                                    <field name="TEXT">z z z </field>
+                                  </block>
+                                </next>
                               </block>
                             </next>
                           </block>
